@@ -2,7 +2,7 @@
 
 #jekyll-theme-saifas
 
-[Jekyll theme]()
+[Jekyll theme boilerplate](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-boilerplate)
 
 ## Structure
 

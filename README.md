@@ -1,4 +1,4 @@
-# Jekyll boilerplate documentation
+# SAIFAS Jekyll Theme-boilerplate documentation
 
 ## Structure
 

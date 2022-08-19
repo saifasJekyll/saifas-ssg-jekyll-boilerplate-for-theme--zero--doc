@@ -1,5 +1,9 @@
 # SAIFAS Jekyll Theme-boilerplate documentation
 
+#jekyll-theme-saifas
+
+[Jekyll theme]()
+
 ## Structure
 
 Boilerplate is used to create themes based on it. It includes core elements, includes, assets and layouts that will be used across all themes. Working with the display of certain elements is done using the configuration described in `_config.yml.`

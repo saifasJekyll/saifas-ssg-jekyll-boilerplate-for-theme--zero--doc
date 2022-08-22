@@ -1,6 +1,6 @@
 # SAIFAS Jekyll Theme-boilerplate documentation
 
-#jekyll-theme-boilerplate-documentation
+#jekyll-theme-boilerplate-doc
 
 [SAIFAS Jekyll them-boilerplate](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-boilerplate)
 

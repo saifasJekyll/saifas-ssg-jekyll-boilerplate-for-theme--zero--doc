@@ -1,8 +1,8 @@
-# SAIFAS Jekyll Theme-boilerplate documentation
+# SAIFAS Jekyll - `Boilerplate for any new Theme` Documentation
 
-#jekyll-theme-boilerplate-doc
+#jekyll_boilerplate_theme_doc
 
-[SAIFAS Jekyll them-boilerplate](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-boilerplate)
+[SAIFAS Jekyll them-boilerplate](https://github.com/saifasJekyll/saifas-ssg-jekyll-boilerplate-theme)
 
 ## Structure
 
